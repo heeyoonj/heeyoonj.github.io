@@ -1,6 +1,6 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: heeyoon jeong
+url: https://heeyoonj.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -40,9 +40,9 @@ author:
 version: 3.0.0
 
 # Navbar page list
-nav:
-  - title: Blog
-    url: /archive
+# nav:
+#  - title: Blog
+#    url: /archive
 
-  - title: About
-    url: /about
+#  - title: About
+#    url: /about
