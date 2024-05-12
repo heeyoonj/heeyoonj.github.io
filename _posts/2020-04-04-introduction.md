@@ -31,14 +31,6 @@ Poole is a streamlined Jekyll site designed and built as a foundation for buildi
 
 Additional features are available in individual themes.
 
-## Browser support
-
-Poole and its themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), Firefox, and Edge.
-
-## Download
-
-These themes are developed on and hosted with GitHub. Head to the [GitHub repository]({{ site.github.repo }}) for downloads, bug reports, and features requests.
-
 ## Introduction
 
 Includes self-introduction, career summary, educational background, etc.
@@ -57,4 +49,5 @@ Records any awards, certifications, or honors you have received.
 
 ## Contact
 
-Provides contact information such as email address, GitHub link, etc., for people to reach out to you.
+E-mail : jhy156250@gmail.com
+Github : [heeyoonj](http://github.com/heeyoonj)
