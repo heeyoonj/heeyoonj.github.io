@@ -39,4 +39,22 @@ Poole and its themes are by preference a forward-thinking project. In addition t
 
 These themes are developed on and hosted with GitHub. Head to the [GitHub repository]({{ site.github.repo }}) for downloads, bug reports, and features requests.
 
-Thanks!
+## Introduction
+
+Includes self-introduction, career summary, educational background, etc.
+
+## Skills
+
+Lists the skills, languages, tools, frameworks, etc., that you possess.
+
+## Education
+
+Provides details about your degrees, schools, majors, academic accomplishments, etc. the courses you have taken so far would also be a good addition.
+
+## Achievements and Certifications
+
+Records any awards, certifications, or honors you have received.
+
+## Contact
+
+Provides contact information such as email address, GitHub link, etc., for people to reach out to you.
