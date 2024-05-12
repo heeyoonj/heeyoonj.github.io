@@ -1,5 +1,5 @@
 # Setup
-title: heeyoon jeong
+title: HeeYoon Jeong Portfolio
 url: https://heeyoonj.github.io
 paginate: 1
 baseurl: ""
@@ -31,10 +31,10 @@ sass:
 # ga_analytics: UA-000000-0
 
 # Specify the author for blog posts
-author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+#author:
+#  name: Mark Otto
+#  url: https://twitter.com/mdo
+#  email: markdotto@gmail.com
 
 # Custom vars
 version: 3.0.0
